@@ -1,4 +1,4 @@
-# Leah Motors (Hero White Version)
+# Leah Motors
 
 Includes:
 - Sticky navbar on all sections
