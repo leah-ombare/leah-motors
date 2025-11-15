@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-body text-neutralDark bg-neutralLight;
+}
+
+.app-gradient {
+  background: radial-gradient(circle at 0 0, #243b53 0, #0b141f 45%, #020617 100%);
+}
+
+.stats-bar-gradient {
+  background: linear-gradient(90deg, #1f4c6b 0%, #13324a 50%, #0b1724 100%);
+}
+
+.footer-gradient {
+  background: linear-gradient(135deg, #0b1724 0%, #1f4c6b 50%, #020617 100%);
+}
